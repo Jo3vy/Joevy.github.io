@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    {
+      "id": "Switch",
+      "height": 50,
+      "fill": {
+        "src": "https://awoiaf.westeros.org/images/thumb/d/d5/House_Lannister.svg/500px-House_Lannister.svg.png"
+      }
+    },
+    {
+      "id": "Server1",
+      "height": 50,
+      "fill": {
+        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+      }
+    },
+	{
+      "id": "Server2",
+      "height": 50,
+      "fill": {
+        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+      }
+    },
+	{
+      "id": "Server3",
+      "height": 50,
+      "fill": {
+        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+      }
+    },
+	{
+      "id": "Server4",
+      "height": 50,
+      "fill": {
+        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+      }
+    },
+    {
+      "id": "Internet",
+      "height": 50,
+      "fill": {
+        "src": "https://awoiaf.westeros.org/images/thumb/2/2d/House_Baratheon.svg/500px-House_Baratheon.svg.png"
+      }
+    },
+    {
+      "id": "Router",
+      "height": 50,
+      "fill": {
+        "src": "https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/500px-House_Stark.svg.png"
+      }
+    },
+    {
+      "id": "Firewall",
+      "height": 50,
+      "fill": {
+        "src": "https://github.com/Jo3vy/Joevy.github.io/blob/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/firewall.png"
+      }
+    }
+  ],
+  "edges": [
+    { "from": "Server1", "to": "Switch" },
+    { "from": "Server2", "to": "Switch" },
+    { "from": "Server3", "to": "Switch" },
+    { "from": "Server4", "to": "Switch" },
+    { "from": "Switch", "to": "Firewall" },
+    { "from": "Firewall", "to": "Router" },
+    { "from": "Router", "to": "Internet" },
+  ]
+}
