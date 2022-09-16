@@ -4,49 +4,49 @@
       "id": "Switch",
       "height": 50,
       "fill": {
-        "src": "https://awoiaf.westeros.org/images/thumb/d/d5/House_Lannister.svg/500px-House_Lannister.svg.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/switch.png"
       }
     },
     {
       "id": "Server1",
       "height": 50,
       "fill": {
-        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/server.png"
       }
     },
 	{
       "id": "Server2",
       "height": 50,
       "fill": {
-        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/server.png"
       }
     },
 	{
       "id": "Server3",
       "height": 50,
       "fill": {
-        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/server.png"
       }
     },
 	{
       "id": "Server4",
       "height": 50,
       "fill": {
-        "src": "https://awoiaf.westeros.org/images/thumb/6/61/House_Tully.svg/500px-House_Tully.svg.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/server.png"
       }
     },
     {
       "id": "Internet",
       "height": 50,
       "fill": {
-        "src": "https://awoiaf.westeros.org/images/thumb/2/2d/House_Baratheon.svg/500px-House_Baratheon.svg.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/internet.png"
       }
     },
     {
       "id": "Router",
       "height": 50,
       "fill": {
-        "src": "https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/500px-House_Stark.svg.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/router.png"
       }
     },
     {
