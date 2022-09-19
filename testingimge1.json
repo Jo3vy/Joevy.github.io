@@ -4,7 +4,7 @@
       "id": "Switch",
       "height": 50,
       "fill": {
-        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/switch.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/main/image/icons8-switch-48.png"
       }
     },
     {
@@ -18,42 +18,42 @@
       "id": "Server2",
       "height": 50,
       "fill": {
-        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/server.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/6952e2044b636e1e57313bfd24d70024adbd7f31/image/blue-server.png"
       }
     },
 	{
       "id": "Server3",
       "height": 50,
       "fill": {
-        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/server.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/6952e2044b636e1e57313bfd24d70024adbd7f31/image/blue-server.png"
       }
     },
 	{
       "id": "Server4",
       "height": 50,
       "fill": {
-        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/server.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/6952e2044b636e1e57313bfd24d70024adbd7f31/image/blue-server.png"
       }
     },
     {
       "id": "Internet",
       "height": 50,
       "fill": {
-        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/internet.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/main/image/icons8-cloud-100.png"
       }
     },
     {
       "id": "Router",
       "height": 50,
       "fill": {
-        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/router.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/main/image/icons8-router-48.png"
       }
     },
     {
       "id": "Firewall",
       "height": 50,
       "fill": {
-        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/c1ab2bcfc98e8cb38e5280cc7dc9d5eb9405a768/image/firewall.png"
+        "src": "https://raw.githubusercontent.com/Jo3vy/Joevy.github.io/main/image/icons8-firewall-64.png"
       }
     }
   ],
